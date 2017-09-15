@@ -3,7 +3,7 @@
 WaterChat is a simple multi-chat application based on server-less architecture.
 Currently available only on iOS.
 
-You can download it from the [iTunes Store](https://www.apple.com/tw/itunes/), or directly on your iPhone.
+You can download it from the [iTunes](https://www.apple.com/tw/itunes/) on your PC/MAC, or directly via AppStore on your iPhone.
 
 ### Contact Us
 
